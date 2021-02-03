@@ -3,7 +3,7 @@
 
 The Horiseon webpage now has a title, sequential headers, semantic HTML elements, and image alt attributes. The goal of these additions is to increase both the page's accessibility for users on e-readers and position in search engines. A broken nav link was also fixed ("Search Engine Optimization"). The CSS for the webpage has been consolidated and restructured so as to follow the semantic structure of the HTML.
 
-You can view the new page [here](http://LINK.com).
+You can view the new page [here](https://elisesamanthadaly.github.io/1-30-21-Homework/).
 
 
 ## Usage
